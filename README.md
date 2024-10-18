@@ -1,5 +1,5 @@
 
-<img src=uicons/roman-data.png width="40%" min-width="150px" max-width="300px" align="right" position=relative z-index=10 alt="roman-data-scientist">
+<img src=uicons/roman-data.png width="40%" min-width="150px" max-width="300px" align="right" position=absolute z-index=999 alt="roman-data-scientist">
 
 ## - Aoba, sou o Victor! 👋
 
