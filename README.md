@@ -1,5 +1,5 @@
 
-<img src=uicons/roman-data.png width="100%" min-width="150px" max-width="300px" align="right" alt="roman-data-scientist">
+<img src=uicons/roman-data.png width="30%" min-width="150px" max-width="300px" align="right" alt="roman-data-scientist">
 
 ## - Aoba, sou o Victor! 👋
 
@@ -40,7 +40,7 @@ Bricklayer assistant em trasição para Data Scientist 🚀
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Automação](https://img.shields.io/badge/Automação-4B8BBE?style=for-the-badge&logo=automate&logoColor=white)
-![LLM's](https://img.shields.io/badge/LLM-003B57?style=for-the-badge&logo=OpenAI&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
+![LLM's](https://img.shields.io/badge/LLM's-003B57?style=for-the-badge&logo=OpenAI&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 
