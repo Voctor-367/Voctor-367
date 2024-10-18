@@ -67,7 +67,7 @@ Bricklayer assistant em trasição para Data Scientist 🚀
 ## <img alt=document-icon src=uicons/document-free-icon-font.svg width=17/> - Projetos futuros 💡
 #### Plataforma de visualização de dados sobre doenças 
 > Apesar de disponíveis, esses dados não são tratados, além de serem disponíveis em ambientes que oferecem pouca intuitividade para acessá-los ou filtrá-los.
-Assim, será uma plataforma que irá além de um repositório. Um ambiente que integrará informações sobre várias doenças, como gráficos para análise de tendências/correlações e extração insights, além de um agente de IA integrado com base de conhecimento em artigos do PubMed, capaz de auxiliar na interpretação desses dados e fornecer informações sobre a doença em estudo.<br>
+Assim, será uma plataforma que irá além de um repositório. Um ambiente que integrará informações sobre várias doenças, como gráficos para análise de tendências/correlações e extração  de insights, além de um agente de IA integrado com base de conhecimento em artigos do PubMed, capaz de auxiliar na interpretação desses dados e fornecer informações sobre a doença em estudo.<br>
 **Possiveis ferramentas:** `python3` `PowerBI` `Excel` `sql` `dify` 
 
 #### DataVisualization para insights sobre o mercado de dados no Brasil
