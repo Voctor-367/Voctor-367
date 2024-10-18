@@ -1,11 +1,11 @@
 
-<img src=uicons/roman-data.png width="300px" min-width="300px" max-width="300px" align="right" alt="pc-logo-maiconrp">
+<img src=uicons/roman-data.png width="100%" min-width="150px" max-width="300px" align="right" alt="roman-data-scientist">
 
 ## - Aoba, sou o Victor! 👋
 
 Bricklayer assistant em trasição para Data Scientist 🚀 
 
-20 anos e cursando **Ciência de Dados** na **UNINTER**.
+20 anos e cursando **Ciência de Dados** na **UNINTER**. <br>
 **Técnico em Informática para Internet** pelo [**IF Baiano - Campus Guanambi**](https://www.ifbaiano.edu.br/unidades/guanambi/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](mailto:victorwilva@gmail@gmail.com)
@@ -27,22 +27,23 @@ Bricklayer assistant em trasição para Data Scientist 🚀
 </div>
 
 
-## <img alt=book-icon src=uicons/book-alt-free-icon-font.svg width=17/> - Tecnologias que estou estudando
+## <img alt=book-icon src=uicons/book-alt-free-icon-font.svg width=17/> - Tecnologias/Ferramentas que estou estudando
 
 
 
 ![Python 3](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
-![PowerBI](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-3670A0?style=for-the-badge&logo=python&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
-![Machine Learning](https://img.shields.io/badge/Inteligência_Artificial-003B57?style=for-the-badge&logo=deeplearning&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=machine-learning&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Automação](https://img.shields.io/badge/Automação-4B8BBE?style=for-the-badge&logo=automate&logoColor=white)
 ![LLM's](https://img.shields.io/badge/LLM-003B57?style=for-the-badge&logo=OpenAI&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
-![Automação](https://img.shields.io/badge/Automação-4B8BBE?style=for-the-badge&logo=gear&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
+
 
 
 
@@ -79,5 +80,5 @@ Assim, será uma plataforma que irá além de um repositório. Um ambiente que i
 
 <hr>
 
-<img alt=document-icon src=uicons/document-free-icon-font.svg width=17/> -  Meus Projetos
+## <img alt=document-icon src=uicons/document-free-icon-font.svg width=17/> -  Meus Projetos
 
