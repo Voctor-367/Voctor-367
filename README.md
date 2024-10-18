@@ -82,11 +82,8 @@ Assim, será uma plataforma que irá além de um repositório. Um ambiente que i
 
 ## <img alt=document-icon src=uicons/document-free-icon-font.svg width=17/> -  Meus Projetos
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=maiconrp&repo=estacao-meteorologica&show_owner=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconrp&layout=compact&repo=estacao-meteorologica)
-![Commit activity](https://img.shields.io/github/commit-activity/m/maiconrp/estacao-meteorologica?style=for-the-badge)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=maiconrp&repo=estacao-meteorologica)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=maiconrp&repo=adgestao&)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Voctor-367&layout=compact&repo=adgestao)
-![Commit activity](https://img.shields.io/github/commit-activity/m/maiconrp/adgestao?style=for-the-badge)
+
 
