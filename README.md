@@ -81,9 +81,3 @@ Assim, será uma plataforma que irá além de um repositório. Um ambiente que i
 <hr>
 
 ## <img alt=document-icon src=uicons/document-free-icon-font.svg width=17/> -  Meus Projetos
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=maiconrp&repo=estacao-meteorologica)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=maiconrp&repo=adgestao&)
-
-
