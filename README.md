@@ -3,9 +3,7 @@
 
 ## - Aoba, sou o Victor! 👋
 
-Bricklayer assistant em trasição para Data Scientist 🚀 
-
-20 anos e cursando **Ciência de Dados** na **UNINTER**. <br>
+Cursando **Ciência de Dados** na **UNINTER**. <br>
 **Técnico em Informática para Internet** pelo [**IF Baiano - Campus Guanambi**](https://www.ifbaiano.edu.br/unidades/guanambi/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](mailto:victorwilva@gmail@gmail.com)
@@ -27,7 +25,7 @@ Bricklayer assistant em trasição para Data Scientist 🚀
 </div>
 
 
-## <img alt=book-icon src=uicons/book-alt-free-icon-font.svg width=17/> - Tecnologias/Ferramentas que estou estudando
+## <img alt=book-icon src=uicons/book-alt-free-icon-font.svg width=17/> - Stack de Tecnologias/Ferramentas Focadas Em:
 
 
 
@@ -49,7 +47,7 @@ Bricklayer assistant em trasição para Data Scientist 🚀
 
 
 
-## <img alt=bookmark-icon src=uicons/bookmark-free-icon-font.svg width=17/> - Tecnologias que já estudei/usei
+## <img alt=bookmark-icon src=uicons/bookmark-free-icon-font.svg width=17/> - Tecnologias Já Utilizadas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
