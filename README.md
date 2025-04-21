@@ -12,7 +12,7 @@ Cursando **Ciência de Dados** na **UNINTER**. <br>
 
 <hr>
 
-## <img src=uicons/bank-free-icon-font.svg width=17/> - Quais projetos vou documentar aqui 
+## <img src=uicons/bank-free-icon-font.svg width=17/> - Desenvolvimento de Soluções Focadas Em:
 
 <div>
  
